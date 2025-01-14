@@ -56,8 +56,7 @@ http://127.0.0.1:5000/
 │
 ├── app.py                # Flask application
 ├── skeleton_tracker.py   # Main logic for tracking and drawing skeleton
-├── templates/
-│   └── index.html        # Frontend HTML
+├── index.html            # Frontend HTML
 └── requirements.txt      # List of dependencies
 ```
 
